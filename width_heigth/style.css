@@ -1,0 +1,8 @@
+div, span{
+    border:solid;
+    width: 300px;
+    min-width: 200px;
+    max-width: 500px;
+
+    height: 500px
+}

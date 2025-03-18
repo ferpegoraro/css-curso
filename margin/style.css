@@ -1,0 +1,7 @@
+.margin{
+    border: 2px solid red;
+    width: 200px;
+    height: 100px;
+
+    margin: 50px 40px 80px 4rem;
+}
