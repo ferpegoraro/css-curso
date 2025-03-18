@@ -1,5 +1,13 @@
+.red {
+    color: red;
+    font-size: 32px;
+    letter-spacing: 7;
+    text-transform: capitalize;
+}
+
+
 #text{
-    color: blue
+    color: green
 }
 
 .green{
@@ -8,4 +16,17 @@
 
 p{
     color: red;
+}
+
+.blue{
+    color:blue;
+}
+
+article p{
+    color:aqua
+}
+
+aside > ul{
+    color: violet;
+    margin-top: 60px;
 }
