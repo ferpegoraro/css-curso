@@ -1,0 +1,18 @@
+.home{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/t2/36324708-ai-gerado-cenario-do-uma-tigre-caminhando-dentro-a-floresta-foto.jpg);
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: rgba(228, 143, 17, 0.438);
+    background-image: url(https://tucurui.ifpa.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-size: cover;
+
+    background: url(https://tucurui.ifpa.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png) no-repeat center/contain;
+}
